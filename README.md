@@ -28,7 +28,6 @@ This repository showcases my journey through [Frontend Mentor](https://www.front
 | [Blog Preview Card](./blog-preview-card) | Responsive blog preview card with hover effects | HTML, CSS | [View Demo](https://rffkive.github.io/Blog-preview-card/) | [Challenge Link](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) |
 | [Recipe Page](./recipe-page) | Detailed recipe page with responsive layout | HTML, CSS | [View Demo](https://rffkive.github.io/recipe-page/) | [Challenge Link](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm) |
 | [Social Link Profile](./social-link-profile) | Profile card with social media links | HTML, CSS | [View Demo](https://rffkive.github.io/social-link-profile/) | [Challenge Link](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) |
-## 💻 Technical Skills Progression
 
 ## 🧰 Development Methodology
 
