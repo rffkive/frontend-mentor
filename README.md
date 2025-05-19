@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.frontendmentor.io/static/images/logo-desktop.svg" alt="Frontend Mentor Logo" width="300"/>
+  <img src="https://thecodebytes.com/wp-content/webpc-passthru.php?src=http://thecodebytes.com/wp-content/uploads/2023/02/frontend-mentor-review.png&nocache=1" alt="Frontend Mentor Logo" width="300"/>
   
   # Frontend Mentor Challenge Gallery
   
