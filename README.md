@@ -4,8 +4,8 @@
   # Frontend Mentor Challenge Gallery
   
   [![Challenges Completed](https://img.shields.io/badge/Challenges_Completed-4-brightgreen?style=for-the-badge)](https://www.frontendmentor.io/profile/rffkive)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/rffkive/frontend-mentor-projects?style=for-the-badge)](https://github.com/rffkive/frontend-mentor-projects/commits/main)
-  [![GitHub repo size](https://img.shields.io/github/repo-size/rffkive/frontend-mentor-projects?style=for-the-badge)](https://github.com/rffkive/frontend-mentor-projects)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/rffkive/frontend-mentor?style=for-the-badge)](https://github.com/rffkive/frontend-mentor/commits/main)
+  [![GitHub repo size](https://img.shields.io/github/repo-size/rffkive/frontend-mentor?style=for-the-badge)](https://github.com/rffkive/frontend-mentor)
 </div>
 
 ## 🎨 About This Collection
@@ -21,90 +21,14 @@ This repository showcases my journey through [Frontend Mentor](https://www.front
 
 ## 🏆 Completed Challenges
 
-### Newbie Level Challenges
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Preview</th>
-    <th>Skills Demonstrated</th>
-    <th>Links</th>
-  </tr>
-  <tr>
-    <td><strong>QR Code Component</strong></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/rffkive/frontend-mentor-projects/main/assets/previews/qr-code-component.jpg" width="120" alt="QR Code Component Preview"/></td>
-    <td>
-      • Basic HTML structure<br>
-      • CSS centering techniques<br>
-      • Card component styling<br>
-      • Responsive design fundamentals
-    </td>
-    <td>
-      <a href="https://rffkive.github.io/qr-code--component/">Live Demo</a><br>
-      <a href="https://github.com/rffkive/qr-code--component">Source Code</a><br>
-      <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">Challenge</a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Blog Preview Card</strong></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/rffkive/frontend-mentor-projects/main/assets/previews/blog-preview-card.jpg" width="120" alt="Blog Preview Card Preview"/></td>
-    <td>
-      • Interactive hover effects<br>
-      • Box-shadow techniques<br>
-      • Typography hierarchy<br>
-      • Image handling in cards
-    </td>
-    <td>
-      <a href="https://rffkive.github.io/Blog-preview-card/">Live Demo</a><br>
-      <a href="https://github.com/rffkive/Blog-preview-card">Source Code</a><br>
-      <a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS">Challenge</a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Recipe Page</strong></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/rffkive/frontend-mentor-projects/main/assets/previews/recipe-page.jpg" width="120" alt="Recipe Page Preview"/></td>
-    <td>
-      • Semantic HTML markup<br>
-      • Complex layout structures<br>
-      • Table styling<br>
-      • Content organization
-    </td>
-    <td>
-      <a href="https://rffkive.github.io/recipe-page/">Live Demo</a><br>
-      <a href="https://github.com/rffkive/recipe-page">Source Code</a><br>
-      <a href="https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm">Challenge</a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Social Link Profile</strong></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/rffkive/frontend-mentor-projects/main/assets/previews/social-link-profile.jpg" width="120" alt="Social Link Profile Preview"/></td>
-    <td>
-      • Interactive button states<br>
-      • Flexbox layout<br>
-      • Vertical spacing rhythm<br>
-      • Profile card components
-    </td>
-    <td>
-      <a href="https://rffkive.github.io/social-link-profile/">Live Demo</a><br>
-      <a href="https://github.com/rffkive/social-link-profile">Source Code</a><br>
-      <a href="https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ">Challenge</a>
-    </td>
-  </tr>
-</table>
-
+### Newbie Level
+| Project | Description | Technologies | Live Demo | Challenge |
+|---------|-------------|--------------|-----------|-----------|
+| [QR Code Component](./qr-code-component) | Simple QR code component with responsive design | HTML, CSS | [View Demo](https://rffkive.github.io/qr-code--component/) | [Challenge Link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) |
+| [Blog Preview Card](./blog-preview-card) | Responsive blog preview card with hover effects | HTML, CSS | [View Demo](https://rffkive.github.io/Blog-preview-card/) | [Challenge Link](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) |
+| [Recipe Page](./recipe-page) | Detailed recipe page with responsive layout | HTML, CSS | [View Demo](https://rffkive.github.io/recipe-page/) | [Challenge Link](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm) |
+| [Social Link Profile](./social-link-profile) | Profile card with social media links | HTML, CSS | [View Demo](https://rffkive.github.io/social-link-profile/) | [Challenge Link](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) |
 ## 💻 Technical Skills Progression
-
-### What I've Learned
-- **CSS Layout Mastery**: Implementing designs through flexbox with pixel-perfect precision
-- **Mobile-First Workflow**: Building responsive layouts that work across all devices
-- **Design Implementation**: Translating Figma designs into functional HTML/CSS
-- **Accessibility**: Ensuring proper semantic markup and ARIA attributes
-- **Clean Code**: Writing well-structured, maintainable HTML and CSS
-
-### What I'm Focusing On
-- **JavaScript Interactions**: Adding dynamic elements and user interactions
-- **CSS Animation**: Creating smooth transitions and engaging visual effects
-- **Design System Implementation**: Building components with consistent styling
-- **CSS Grid**: Implementing more complex, two-dimensional layouts
 
 ## 🧰 Development Methodology
 
