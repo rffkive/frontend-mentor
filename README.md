@@ -21,13 +21,12 @@ This repository showcases my journey through [Frontend Mentor](https://www.front
 
 ## 🏆 Completed Challenges
 
-### Newbie Level
-| Project | Description | Technologies | Live Demo | Challenge |
-|---------|-------------|--------------|-----------|-----------|
-| [QR Code Component](./qr-code-component) | Simple QR code component with responsive design | HTML, CSS | [View Demo](https://rffkive.github.io/qr-code--component/) | [Challenge Link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) |
-| [Blog Preview Card](./blog-preview-card) | Responsive blog preview card with hover effects | HTML, CSS | [View Demo](https://rffkive.github.io/Blog-preview-card/) | [Challenge Link](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) |
-| [Recipe Page](./recipe-page) | Detailed recipe page with responsive layout | HTML, CSS | [View Demo](https://rffkive.github.io/recipe-page/) | [Challenge Link](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm) |
-| [Social Link Profile](./social-link-profile) | Profile card with social media links | HTML, CSS | [View Demo](https://rffkive.github.io/social-link-profile/) | [Challenge Link](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) |
+| Project | Tools | Live Demo | Challenge | Difficulty |
+|---------|-------|-----------|-----------|------------|
+| [QR Code Component](https://github.com/rffkive/qr-code--component) | HTML, CSS | [View Demo](https://rffkive.github.io/qr-code--component/) | [Challenge Link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) | <span style="color: #3498db;">Newbie</span> |
+| [Blog Preview Card](https://github.com/rffkive/Blog-preview-card) | HTML, CSS | [View Demo](https://rffkive.github.io/Blog-preview-card/) | [Challenge Link](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) | <span style="color: #3498db;">Newbie</span> |
+| [Recipe Page](https://github.com/rffkive/recipe-page) | HTML, CSS | [View Demo](https://rffkive.github.io/recipe-page/) | [Challenge Link](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm) | <span style="color: #3498db;">Newbie</span> |
+| [Social Link Profile](https://github.com/rffkive/social-link-profile) | HTML, CSS | [View Demo](https://rffkive.github.io/social-link-profile/) | [Challenge Link](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) | <span style="color: #3498db;">Newbie</span> |
 
 ## 🧰 Development Methodology
 
