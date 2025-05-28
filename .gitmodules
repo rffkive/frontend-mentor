@@ -1,3 +1,6 @@
 [submodule "qr-code--component"]
 	path = qr-code--component
 	url = git@github.com:rffkive/qr-code--component.git
+[submodule "Blog-preview-card"]
+	path = Blog-preview-card
+	url = git@github.com:rffkive/Blog-preview-card.git
