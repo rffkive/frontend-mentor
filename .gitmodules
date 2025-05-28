@@ -4,3 +4,6 @@
 [submodule "Blog-preview-card"]
 	path = Blog-preview-card
 	url = git@github.com:rffkive/Blog-preview-card.git
+[submodule "social-link-profile"]
+	path = social-link-profile
+	url = git@github.com:rffkive/social-link-profile.git
