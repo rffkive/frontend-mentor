@@ -7,3 +7,6 @@
 [submodule "social-link-profile"]
 	path = social-link-profile
 	url = git@github.com:rffkive/social-link-profile.git
+[submodule "recipe-page"]
+	path = recipe-page
+	url = git@github.com:rffkive/recipe-page.git
